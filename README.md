@@ -91,6 +91,6 @@ Cash on Delivery is the most preferred payment method.
 Forecast indicates an upward sales trend in the coming 15 days.
 
 🖼️ Project Screenshots
-🔸 Dashboard 1: Superstore Sales Overview:
+🔸 Dashboard 1: Superstore Sales Overview:https://github.com/Anshika1X/SuperStore-Sales-Dashboard/blob/main/Screenshot%202025-11-11%20210401.png
 
-🔸 Dashboard 2: Sales Forecast (15 Days)
+🔸 Dashboard 2: Sales Forecast (15 Days):
