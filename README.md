@@ -89,3 +89,8 @@ Office Supplies and Technology are top-grossing categories.
 Cash on Delivery is the most preferred payment method.
 
 Forecast indicates an upward sales trend in the coming 15 days.
+
+🖼️ Project Screenshots
+🔸 Dashboard 1: Superstore Sales Overview:
+
+🔸 Dashboard 2: Sales Forecast (15 Days)
